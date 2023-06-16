@@ -1,4 +1,4 @@
-# Asset Project Portfolio
+# Asset Projects Portfolio
  In this repository, I have created different projects that go over different asset pricing models.
 
  So far, I have created a:
